@@ -1,7 +1,7 @@
 🌟 **About Me:**
-- 🎓 I'm currently pursuing my **B.Sc. in Electrical Engineering** at **UET, Lahore**.
-- 👀 I’m interested in Risc-V architecture and hardware accelerators like systolic arrays
-- 🧠 Currently, I'm learning **UVM (Universal Verification Methodology)** to deepen my expertise in verification.
+- 🎓 I'm a final year **B.Sc. in Electrical Engineering** student at **UET, Lahore**.
+- 👀 I’m interested in hardware accelerators like systolic arrays
+- 🧠 Currently, I'm learning **UVM RAL** to deepen my expertise in verification.
 - 😄 Pronouns: he/him
 
 <!---
